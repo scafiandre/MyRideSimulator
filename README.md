@@ -11,6 +11,12 @@ MyRideSimulator is a proof-of-concept (POC) native Android application built usi
 - Custom Jetpack Compose components for reusable and scalable UI elements.
 - Google Maps API integration for location-based features.
 
+## Demonstration
+
+Here is a demonstration of MyRideSimulator in action:
+
+![MyRideSimulator in Action](MYRIDESIMULATOR.gif)
+
 ## Technologies Used
 
 - **Android Jetpack Components:**
