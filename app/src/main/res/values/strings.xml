@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">My Ride Simulator</string>
+
+    <!--    Base Screen-->
+    <string name="error">Error</string>
+
+<!--    Home Screen-->
+    <string name="choose_the_option_you_want">Choose the option you want</string>
+    <string name="request_a_trip">Request a trip</string>
+    <string name="trip_history">Trip history</string>
+
+    <!--   RequestTrip Screen-->
+    <string name="Inform_your_id">Inform your id</string>
+    <string name="from_address">From Address</string>
+    <string name="to_address">To Address</string>
+    <string name="estimated_trip">Estimated Trip</string>
+
+    <!--   TripOption Screen-->
+    <string name="viagem_confirmada">Confirmed Trip</string>
+    <string name="distance_km">Distance: %1$s km</string>
+    <string name="duration_min">Duration: %1$s min</string>
+
+<!--    HistoryTrip Screen-->
+    <string name="choose_a_driver">Choose a driver</string>
+    <string name="list_uploaded_successful">List uploaded successful</string>
+    <string name="search_trips">Search Trips</string>
+
+    <!--    Components-->
+    <string name="vehicle">Vehicle: %1$s</string>
+    <string name="rating">Rating: %1$s</string>
+    <string name="price_r">Price: R$ %1$s</string>
+    <string name="choose">Choose</string>
+    <string name="date">Date: %1$s</string>
+    <string name="driver">Driver: %1$s</string>
+    <string name="origin">Origin: %1$s</string>
+    <string name="destination">Destination: %1$s</string>
+    <string name="distance_km_item">Distance: %1$s Km</string>
+    <string name="duration_min_item">Duration: %1$s min</string>
+    <string name="value_r">Value: R$ %1$s</string>
+    <string name="choose_the_driver">Choose the Driver</string>
+    <string name="history_trip">History Trip</string>
+    <string name="back_home_screen">Back Home Screen</string>
+    <string name="please_fill_me">Please fill me</string>
+    <string name="it_is_not_allowed_the_same_address_for_origin_and_destination">It is not allowed the same address for origin and destination</string>
+
+
+</resources>
