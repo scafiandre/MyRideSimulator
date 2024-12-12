@@ -15,7 +15,7 @@ MyRideSimulator is a proof-of-concept (POC) native Android application built usi
 
 Here is a demonstration of MyRideSimulator in action:
 
-![MyRideSimulator in Action](MYRIDESIMULATOR.gif)
+<img src="MYRIDESIMULATOR.gif" alt="MyRideSimulator in Action" width="300">
 
 ## Technologies Used
 
